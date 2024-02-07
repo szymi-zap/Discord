@@ -28,7 +28,7 @@ client.on('ready', async () => {
     .setURL('https://www.twitch.tv/losfutbolitos') //Must be a youtube video link 
 
     .setName('/yxn')
-    .setDetails(/yxn [${formatTime()}])
+    .setDetails('/yxn [${formatTime()}]')
     .setStartTimestamp(Date.now())
 
 
