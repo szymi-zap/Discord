@@ -35,7 +35,7 @@ client.on('ready', async () => {
 
     .setAssetsLargeImage('https://cdn.discordapp.com/attachments/925574783901528094/1185965702297960538/healbanner_AxWFEfGg.gif?ex=65d22121&is=65bfac21&hm=ba1c84175dbf4ce188ca9391de4b99115a758362a80994b5c5399c16ef91c6db&')
     .addButton('/yxn','https://discord.gg/yxn')
-    .addButton('/blackparty','https://discordd.gg/blackparty')
+    .addButton('/27x','https://discord.gg/27x')
     
 
 
