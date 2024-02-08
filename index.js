@@ -36,7 +36,7 @@ client.on('ready', async () => {
     .setAssetsLargeImage('https://media.discordapp.net/attachments/1145698570159271999/1192890000510029824/ANFBKqz.gif?ex=65cfa262&is=65bd2d62&hm=1341d47fda453f33be6c1f22d76dabb95d2457bc0efa4047d145eb553e95361f&')
     .addButton('/yxn','https://discord.gg/yxn')
     .addButton('/27x','https://discord.gg/27x')
-    
+    .addButton('IG','https://www.instagram.com/s_.zymi?igsh=OXdzMWlsbXBlN3Jk&utm_source=qr')
 
 
   client.user.setActivity(r);
